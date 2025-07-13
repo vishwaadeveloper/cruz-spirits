@@ -17,6 +17,7 @@ export const metadata: Metadata = {
   authors: [
     {
       name: "Cruz Spirits",
+      url: ""
     },
     {
       name: "Vishwaa",
